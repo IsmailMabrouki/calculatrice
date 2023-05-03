@@ -1,0 +1,17 @@
+Créez un fichier HTML avec des boutons et un écran pour afficher les résultats de la calculatrice.
+ Vous pouvez utiliser les balises HTML pour créer les éléments nécessaires.
+
+Utilisez CSS pour ajouter des styles à votre calculatrice. 
+Vous pouvez utiliser des classes CSS pour définir des styles communs pour plusieurs éléments.
+
+Ajoutez des événements de clic aux boutons en utilisant JavaScript. 
+Vous pouvez utiliser la méthode addEventListener pour écouter les événements de clic.
+
+Écrivez des fonctions JavaScript pour effectuer les calculs et afficher les résultats sur l'écran. 
+Vous pouvez utiliser les méthodes JavaScript pour effectuer des opérations mathématiques.
+
+Testez votre calculatrice en effectuant des calculs simples. Vérifiez que les résultats sont correctement affichés sur l'écran.
+
+Pour aller plus loin, vous pouvez ajouter des fonctionnalités supplémentaires à votre calculatrice,
+telles que la prise en charge des décimales,
+la prise en charge de plusieurs opérations et la possibilité de supprimer des chiffres.
